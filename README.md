@@ -1,4 +1,4 @@
-# Placement_Prediction
+# Placement_Prediction using Decision Tree Model
 
  # Libraries use
     pandas
@@ -13,4 +13,5 @@
     The analysis provides insights into the factors influencing placement outcomes for candidates. 
     By interpreting the decision tree model, we gain valuable insights into which features have the 
     most significant impact on placement predictions. These insights can be utilized by recruiters 
-    and placement officers to make informed decisions regarding candidate selection and placement strategies.
+    and placement officers to make informed decisions regarding candidate selection and placement 
+    strategies.
