@@ -1,7 +1,6 @@
 # Placement_Prediction
 
  # Libraries use
-
     pandas
     numpy
     matplotl+ib
